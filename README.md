@@ -15,7 +15,7 @@ WINDOWS REQUIREMENTS:
 
 HOW TO RUN?
 
-1. Edit with notepad bot.js to configure the Bot's name, server IP address and port.
+1. Edit with notepad bot.js to configure the Server IP address (HOST), Bot's name (USERNAME) and port.   [ONLY EDIT HOST, USERNAME, AND PORT]
 2. Save and close the file, then you can Right Click and "Run with PowerShell" start-bot.ps1.
 
 
